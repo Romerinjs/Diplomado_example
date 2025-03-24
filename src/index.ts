@@ -4,3 +4,8 @@ function greet(name: string): string {
 }
 
 console.log(greet("Estudiante"));
+function farewell(name: string): string {
+    return `Adiós, ${name}. ¡Hasta la próxima!`;
+}
+
+console.log(farewell("Estudiante"));
