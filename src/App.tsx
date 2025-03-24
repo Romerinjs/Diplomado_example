@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react, typescript';
 //Toca hacer el npm install react para que funcione
 
 const App: React.FC = () => {
