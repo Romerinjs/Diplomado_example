@@ -9,3 +9,5 @@ function farewell(name: string): string {
 }
 
 console.log(farewell("Estudiante"));
+// Todos los cambios han sido realizados correctamente
+console.log('Ahora todo está funcional amiguitos para poder lanzar la versión 1.0')
