@@ -13,4 +13,9 @@ console.log(farewell("Estudiante"));
 =======
 // chismoso usted hp
 console.log('Hola sapo');
+<<<<<<< HEAD
 >>>>>>> feature/Esteban
+=======
+console.log('Hola pyce');
+console.log('Rudzy es un gay');
+>>>>>>> feature/Nicko

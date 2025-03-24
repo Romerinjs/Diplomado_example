@@ -1,4 +1,5 @@
-import React from 'react';
+import React from 'react, typescript';
+//Toca hacer el npm install react para que funcione
 
 const App: React.FC = () => {
     return (
@@ -8,5 +9,6 @@ const App: React.FC = () => {
         </div>
     );
 };
-
+// bombardino crocodilo
+// Vamos a hacer un comentario aqui para que el chismoso que está viendo este comentario
 export default App;
