@@ -1,4 +1,5 @@
 // Vamos a hacer un comentario aqui para que el chismoso que está viendo este comentario
+<<<<<<< HEAD
 function greet(name: string): string {
     return `Hola, ${name}! Bienvenido al diplomado.`;
 }
@@ -9,3 +10,7 @@ function farewell(name: string): string {
 }
 
 console.log(farewell("Estudiante"));
+=======
+// chismoso usted hp
+console.log('Hola sapo');
+>>>>>>> feature/Esteban
